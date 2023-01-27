@@ -66,6 +66,12 @@ Copie o conteudo de dentro do arquivo e cole no já existente ou substitua por e
 <br><br>
 ## 3. Soluções sobre os erros
 
- Como dito, está é a minha primeira vez desenvolvendo um projeto em Laravel. Consegui me adaptar bem durante esses 3 dias, surgiam alguns erros/bugs uma hora ou outra, mas consegui desenvolver bem. Porém um surgiu o sequinte erro:
+ Como dito, está é a minha primeira vez desenvolvendo um projeto em Laravel. Consegui me adaptar bem durante esses 3 dias, surgiam alguns erros/bugs uma hora ou outra, mas consegui desenvolver bem. Porém surgiu o seguinte erro:
  
  ![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/error.png)
+
+ Eu não consegui puxar as informações da API como eu esperava, os códigos que usei para consumir a API são
+ 
+![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/use.png)
+
+![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/ibge.png)
