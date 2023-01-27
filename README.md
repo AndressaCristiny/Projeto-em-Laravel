@@ -82,4 +82,4 @@ Copie o conteudo de dentro do arquivo e cole no já existente ou substitua por e
 **_API criada com sucesso_**
 ![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/api.png)
 
-Creio que o erro se origina de alguma configuração minha. Senão fosse por esse imprevisto, eu conseguiria consumir a API para salvar no banco de dados
+Creio que o erro se origina de alguma configuração minha. Senão fosse por esse imprevisto, eu conseguiria consumir a API, assim eu passaria para uma variavel para salvar no banco de dados e também mostrar as informações da API ao usuário
