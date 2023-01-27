@@ -44,7 +44,7 @@ Colocar dentro de _app\Models_
  ![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/models.png)
 
 ### restaurante.blade.php
- Apaga o arquivo "Welcome.blade.php" e coloque o arquivo "restaurante.blade.php dentro" de _resource\views_
+ Apague o arquivo "Welcome.blade.php" e coloque o arquivo "restaurante.blade.php dentro" de _resource\views_
  
  ![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/views.png)
 
@@ -54,4 +54,11 @@ O arquivo deve ser inserido dentro de _resource\views_
 ![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/views.png)
 
 ### web.php
+ Copie o conteudo de dentro do arquivo e cole no já existente ou substitua por esse arquivo do github. _routes\_
+
+![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/routes.png)
+
 ### api.php
+Copie o conteudo de dentro do arquivo e cole no já existente ou substitua por esse arquivo do github. _routes\_
+
+![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/routes.png)
