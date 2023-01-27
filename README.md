@@ -32,6 +32,9 @@ Agora podemos importar o arquivo _restaurante.sql_ para dentro do novo banco de 
  O arquivo deve ser inserido dentro de _app\Http\Controllers_
  
  ![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/EventController.png)
+ <br>
+ 
+ Creio que o erro esteja relacionado a algo de minhas configurações. Mas senão fosse esse pequeno imprevisto, eu conseguiria consumir a API, passar para uma variavel e após isso salvar no banco de dados e também mostrar as informações da API para o usuário.
 
 ### Produto.php
  Colocar dentro de _app\Models_
@@ -70,8 +73,11 @@ Copie o conteudo de dentro do arquivo e cole no já existente ou substitua por e
  
  ![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/error.png)
 
- Eu não consegui puxar as informações da API como eu esperava, os códigos que usei para consumir a API são
+ Eu consegui criar a API da lista de produtos, mas não consegui puxar as informações da API como eu esperava, os códigos que usei para consumir a API são
  
 ![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/use.png)
 
 ![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/ibge.png)
+
+**_API criada com sucesso_**
+![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/api.png)
