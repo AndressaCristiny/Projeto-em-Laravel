@@ -64,6 +64,8 @@ Copie o conteudo de dentro do arquivo e cole no já existente ou substitua por e
 ![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/routes.png)
 
 <br><br>
-## 3. Soluções sobres os erros
+## 3. Soluções sobre os erros
 
- Como dito, está é a primeira vez desenvolvendo um projeto em Laravel. Consegui me adaptar bem durante esses 3 dias, surgiam alguns erros/bugs uma hora ou outra, mas consegui de
+ Como dito, está é a minha primeira vez desenvolvendo um projeto em Laravel. Consegui me adaptar bem durante esses 3 dias, surgiam alguns erros/bugs uma hora ou outra, mas consegui desenvolver bem. Porém um surgiu o sequinte erro:
+ 
+ ![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/error.png)
