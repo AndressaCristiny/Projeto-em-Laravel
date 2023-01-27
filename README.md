@@ -34,12 +34,16 @@ Agora podemos importar o arquivo _restaurante.sql_ para dentro do novo banco de 
  ![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/EventController.png)
 
 ### Produto.php
- Colocar dentro _app\Models_
+ Colocar dentro de _app\Models_
 
  ![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/models.png)
- 
+
+### Ibge.php
+Colocar dentro de _app\Models_
+
+ ![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/models.png)
+
 ### restaurante.blade.php
 ### Pasta "php"
 ### web.php
 ### api.php
-### Ibge.php
