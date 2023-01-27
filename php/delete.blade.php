@@ -67,15 +67,13 @@
                 <h5 class="card-title">Produtos deletados</h5>
             </div><br>
             <div class="card-body">
-                @if(10>5)
+                
                 <div class="scroll">
                     @foreach($produtos as $produto)
                         <p>{{$produto->id}} -- {{$produto->name}}</p>
                     @endforeach
                 </div>
-                @else
-                    Ainda não há nada no cardápio
-                @endif
+               
 
             </div>
         </div>
