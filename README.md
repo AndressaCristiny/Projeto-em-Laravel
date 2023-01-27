@@ -44,6 +44,14 @@ Colocar dentro de _app\Models_
  ![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/models.png)
 
 ### restaurante.blade.php
+ Apaga o arquivo "Welcome.blade.php" e coloque o arquivo "restaurante.blade.php dentro" de _resource\views_
+ 
+ ![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/views.png)
+
 ### Pasta "php"
+O arquivo deve ser inserido dentro de _resource\views_
+
+![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/views.png)
+
 ### web.php
 ### api.php
