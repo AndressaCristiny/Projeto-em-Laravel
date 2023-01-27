@@ -66,15 +66,13 @@
                 <h5 class="card-title">Cardápio</h5>
             </div><br>
             <div class="card-body">
-                @if(5 == 5)
+               
                 <div class="scroll">
                     @foreach($produtos as $produto)
                         <p>{{$produto->name}}</p>
                     @endforeach
                 </div>
-                @else
-                    Ainda não há nada no cardápio
-                @endif
+           
 
             </div>
         </div>
