@@ -7,7 +7,7 @@ _Meu primeiro projeto em Laravel_
   * Visual Studio Code (outro outro programa para ler o código)
   * Xampp
   * Git (foi necessaria a sua instalação por conta de um erro, o laravel precisava do git)
-
+<br><br>
 ## 1. Preparando o ambiente
 
 ### Laravel
@@ -25,7 +25,7 @@ _Meu primeiro projeto em Laravel_
 Agora podemos importar o arquivo _restaurante.sql_ para dentro do novo banco de dados criado
 
 ![img](https://github.com/AndressaCristiny/Teste-Desenvolvedor-Jr/blob/main/Imgs/importar_bd.png)
-
+<br><br>
 ## 2. Onde colocar cada arquivo .php
 
 ### EventController.php
@@ -62,3 +62,8 @@ O arquivo deve ser inserido dentro de _resource\views_
 Copie o conteudo de dentro do arquivo e cole no já existente ou substitua por esse arquivo do github. _routes\_
 
 ![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/routes.png)
+
+<br><br>
+## 3. Soluções sobres os erros
+
+ Como dito, está é a primeira vez desenvolvendo um projeto em Laravel. Consegui me adaptar bem durante esses 3 dias, surgiam alguns erros/bugs uma hora ou outra, mas consegui de
