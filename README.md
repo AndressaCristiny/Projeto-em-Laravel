@@ -9,3 +9,5 @@ _Meu primeiro projeto em Laravel_
   * Git
 
 ## 1º passo
+Você terá que criar um projeto laravel por meio de linhas de comando do composer, no terminal do VSCode. O comando é:
+*__composer create-project laravel/laravel Teste__*
