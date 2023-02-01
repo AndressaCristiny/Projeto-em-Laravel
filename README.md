@@ -39,12 +39,18 @@ Agora podemos importar o arquivo _restaurante.sql_ para dentro do novo banco de 
 ### Produto.php
  Colocar dentro de _app\Models_
 
- ![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/models.png)
+ ![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/modelsofc.png)
 
 ### Ibge.php
 Colocar dentro de _app\Models_
 
- ![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/models.png)
+ ![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/modelsofc.png)
+ 
+### Prod_local.php
+Colocar dentro de _app\Models_
+
+ ![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/modelsofc.png)
+
 
 ### restaurante.blade.php
  Apague o arquivo "Welcome.blade.php" e coloque o arquivo "restaurante.blade.php dentro" de _resource\views_
