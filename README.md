@@ -73,19 +73,23 @@ Copie o conteudo de dentro do arquivo e cole no já existente ou substitua por e
 ![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/routes.png)
 
 <br><br>
-## 3. Soluções sobre os erros
+## 3. Resultados
 
- Como dito, está é a minha primeira vez desenvolvendo um projeto em Laravel. Consegui me adaptar bem durante esses 3 dias, surgiam alguns erros/bugs uma hora ou outra, mas consegui desenvolver bem. Porém surgiu o seguinte erro:
- 
- ![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/error.png)
+**_APIs criada com sucesso_**<br>
 
- Eu consegui criar a API da lista de produtos, mas não consegui puxar as informações da API como eu esperava, os códigos que usei para consumir a API são
- 
-![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/use.png)
-
-![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/ibge.png)
-
-**_API criada com sucesso_**
+_ListProd_
 ![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/api.png)
+
+![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/ListProd.png)
+<br>
+_Prodlocal_
+
+![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/Prod_local.png)
+<br>
+
+_ibge_
+
+![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/municipios.png)
+<br>
 
 Creio que o erro tem origem de alguma configuração minha. Senão fosse por esse imprevisto, eu conseguiria consumir a API, assim eu passaria para uma variavel para salvar no banco de dados e também mostrar as informações da API ao usuário
