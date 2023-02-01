@@ -90,6 +90,3 @@ _Prodlocal_
 _ibge_
 
 ![img](https://raw.githubusercontent.com/AndressaCristiny/Teste-Desenvolvedor-Jr/main/Imgs/municipios.png)
-<br>
-
-Creio que o erro tem origem de alguma configuração minha. Senão fosse por esse imprevisto, eu conseguiria consumir a API, assim eu passaria para uma variavel para salvar no banco de dados e também mostrar as informações da API ao usuário
