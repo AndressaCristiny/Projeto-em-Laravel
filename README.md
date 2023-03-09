@@ -1,4 +1,4 @@
-# Teste-Desenvolvedor-Jr
+# Projeto em Laravel
 
 _Meu primeiro projeto em Laravel_
 
